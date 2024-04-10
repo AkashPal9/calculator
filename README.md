@@ -1,6 +1,6 @@
 # React Native App
 
-This is a React Native application for [Your App Name]. 
+This is a React Native application for Calculator. 
 
 ## Prerequisites
 
